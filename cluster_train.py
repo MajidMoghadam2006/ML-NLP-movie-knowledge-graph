@@ -1,7 +1,7 @@
 
 # coding: utf-8
 
-# In[ ]:
+# In[1]:
 
 
 import os
@@ -9,18 +9,18 @@ import sys
 import numpy as np
 import pandas as pd
 
-from tensorflow import keras
-from tensorflow.keras.preprocessing.text import Tokenizer
-from tensorflow.keras.utils import to_categorical
-from tensorflow.keras.preprocessing.sequence import pad_sequences
-from tensorflow.keras.layers import Activation, Conv2D, Input, Embedding, Reshape, MaxPool2D, Concatenate, Flatten, Dropout, Dense, Conv1D
-from tensorflow.keras.layers import MaxPool1D
-from tensorflow.keras.models import Model
-from tensorflow.keras.callbacks import ModelCheckpoint
-from tensorflow.keras.optimizers import Adam
+import keras
+from keras.preprocessing.text import Tokenizer
+from keras.utils import to_categorical
+from keras.preprocessing.sequence import pad_sequences
+from keras.layers import Activation, Conv2D, Input, Embedding, Reshape, MaxPool2D, Concatenate, Flatten, Dropout, Dense, Conv1D
+from keras.layers import MaxPool1D
+from keras.models import Model
+from keras.callbacks import ModelCheckpoint
+from keras.optimizers import Adam
 from sklearn.model_selection import train_test_split
-from tensorflow.keras.models import Sequential
-import tensorflow.keras.backend as K
+from keras.models import Sequential
+import keras.backend as K
 from sklearn.model_selection import KFold
 
 def recall_m(y_true, y_pred):
