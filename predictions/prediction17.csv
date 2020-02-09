@@ -1,0 +1,1085 @@
+CORE RELATIONS,ID
+movie.starring.actor,0
+movie.starring.actor,1
+movie.starring.actor,2
+movie.starring.actor,3
+movie.starring.actor,4
+movie.starring.actor actor.gender,5
+movie.starring.actor,6
+movie.starring.actor,7
+movie.starring.actor,8
+movie.starring.actor,9
+NO_REL,10
+movie.starring.actor,11
+movie.starring.actor,12
+movie.starring.actor,13
+movie.starring.actor,14
+movie.starring.actor,15
+movie.starring.actor,16
+movie.starring.actor,17
+movie.starring.actor,18
+NO_REL,19
+movie.starring.actor,20
+movie.starring.actor,21
+movie.starring.actor,22
+movie.starring.actor,23
+movie.starring.actor,24
+movie.starring.actor,25
+NO_REL,26
+movie.starring.actor,27
+movie.starring.actor,28
+movie.starring.actor,29
+movie.starring.actor,30
+movie.starring.actor,31
+movie.starring.actor,32
+movie.starring.actor actor.gender,33
+movie.starring.actor,34
+movie.estimated_budget,35
+movie.estimated_budget,36
+movie.estimated_budget,37
+movie.estimated_budget,38
+movie.estimated_budget,39
+movie.estimated_budget,40
+movie.estimated_budget,41
+movie.estimated_budget,42
+movie.estimated_budget,43
+movie.estimated_budget,44
+movie.estimated_budget,45
+movie.estimated_budget,46
+movie.estimated_budget,47
+movie.estimated_budget,48
+movie.estimated_budget,49
+movie.estimated_budget,50
+movie.estimated_budget,51
+movie.estimated_budget,52
+movie.estimated_budget,53
+movie.estimated_budget,54
+movie.estimated_budget,55
+movie.starring.actor,56
+NO_REL,57
+movie.rating,58
+movie.locations,59
+movie.starring.actor,60
+movie.directed_by,61
+movie.directed_by,62
+movie.production_companies,63
+movie.country,64
+movie.country,65
+movie.country,66
+movie.country,67
+movie.country,68
+movie.country,69
+movie.country,70
+movie.country,71
+movie.initial_release_date,72
+movie.initial_release_date,73
+movie.initial_release_date,74
+movie.initial_release_date,75
+movie.initial_release_date,76
+movie.initial_release_date,77
+movie.initial_release_date,78
+movie.initial_release_date,79
+movie.initial_release_date movie.country,80
+movie.initial_release_date,81
+movie.initial_release_date,82
+movie.initial_release_date,83
+movie.initial_release_date,84
+movie.initial_release_date,85
+movie.initial_release_date,86
+movie.initial_release_date,87
+movie.initial_release_date,88
+movie.initial_release_date,89
+movie.initial_release_date,90
+movie.initial_release_date,91
+movie.initial_release_date,92
+movie.initial_release_date,93
+movie.initial_release_date,94
+movie.initial_release_date,95
+movie.initial_release_date,96
+movie.initial_release_date,97
+movie.initial_release_date,98
+movie.initial_release_date,99
+movie.initial_release_date,100
+movie.initial_release_date,101
+movie.initial_release_date,102
+movie.initial_release_date,103
+movie.initial_release_date,104
+movie.initial_release_date,105
+movie.initial_release_date,106
+movie.initial_release_date,107
+movie.initial_release_date,108
+other,109
+movie.initial_release_date,110
+movie.initial_release_date,111
+movie.initial_release_date,112
+movie.directed_by,113
+movie.directed_by,114
+movie.directed_by,115
+movie.directed_by,116
+movie.directed_by,117
+movie.directed_by,118
+movie.directed_by,119
+movie.directed_by,120
+movie.directed_by,121
+movie.rating,122
+movie.directed_by,123
+movie.directed_by,124
+movie.directed_by,125
+movie.directed_by,126
+movie.directed_by,127
+movie.directed_by,128
+movie.directed_by,129
+movie.directed_by,130
+movie.directed_by,131
+movie.directed_by,132
+movie.directed_by,133
+movie.directed_by,134
+movie.directed_by,135
+movie.directed_by,136
+movie.directed_by,137
+movie.directed_by,138
+movie.directed_by,139
+movie.starring.actor movie.directed_by,140
+movie.directed_by,141
+movie.directed_by,142
+movie.directed_by,143
+movie.directed_by,144
+movie.directed_by,145
+movie.directed_by,146
+movie.directed_by,147
+movie.directed_by,148
+movie.directed_by,149
+movie.directed_by,150
+NO_REL,151
+movie.directed_by,152
+movie.directed_by,153
+movie.directed_by,154
+movie.directed_by,155
+movie.directed_by,156
+movie.directed_by,157
+movie.genre,158
+movie.genre,159
+movie.genre,160
+movie.genre,161
+movie.genre,162
+movie.genre,163
+movie.genre,164
+movie.genre,165
+movie_other,166
+movie.genre,167
+movie.genre,168
+movie.genre,169
+movie.genre,170
+movie.genre,171
+movie.genre,172
+movie.genre,173
+movie.genre,174
+movie.genre,175
+movie.genre,176
+movie.language,177
+movie.language,178
+movie.language,179
+movie.language,180
+movie.language,181
+movie.language,182
+movie.language,183
+movie.language,184
+movie.language,185
+movie.country movie.language,186
+movie.country movie.language,187
+movie.directed_by movie.produced_by,188
+movie.produced_by,189
+NO_REL,190
+NO_REL,191
+movie.rating,192
+movie.rating,193
+movie.language,194
+movie.starring.actor,195
+movie.starring.actor,196
+movie.subjects,197
+movie.subjects,198
+movie.starring.actor,199
+movie.starring.actor,200
+movie.starring.actor,201
+movie.country movie.language,202
+movie.starring.actor,203
+other,204
+movie_other,205
+NO_REL,206
+movie.locations,207
+movie.gross_revenue,208
+movie.language,209
+NO_REL,210
+NO_REL,211
+NO_REL,212
+NO_REL,213
+NO_REL,214
+movie.directed_by,215
+movie.directed_by,216
+NO_REL,217
+movie.starring.actor,218
+movie.directed_by,219
+movie.produced_by,220
+movie.starring.actor,221
+movie.starring.actor,222
+movie.starring.actor,223
+movie.directed_by,224
+movie.directed_by,225
+movie.initial_release_date,226
+movie.directed_by,227
+movie.directed_by,228
+movie.rating,229
+NO_REL,230
+movie.language,231
+movie.country,232
+movie.country,233
+movie.language,234
+movie.language,235
+movie.genre,236
+movie.genre,237
+movie.genre,238
+movie.genre,239
+movie.genre,240
+movie.country movie.genre,241
+movie.starring.actor,242
+movie.starring.actor,243
+movie.starring.actor,244
+movie.country,245
+movie.country,246
+movie.country,247
+movie.country,248
+movie.country movie.language,249
+movie.country movie.language,250
+movie.country,251
+movie.country,252
+movie.country,253
+movie.country movie.language,254
+movie.country movie.language,255
+movie.country movie.language,256
+movie.starring.actor,257
+movie_other,258
+movie.genre,259
+movie.language,260
+NO_REL,261
+movie.directed_by,262
+movie.country,263
+movie.country,264
+NO_REL,265
+movie.directed_by,266
+movie.language,267
+movie.country,268
+movie.country movie.genre,269
+movie.genre movie.rating,270
+movie.genre movie.language,271
+movie.starring.actor,272
+NO_REL,273
+NO_REL,274
+movie.starring.actor,275
+movie.starring.actor,276
+movie.starring.actor movie.initial_release_date,277
+movie.starring.actor movie.produced_by,278
+movie.country,279
+movie.starring.actor,280
+NO_REL,281
+NO_REL,282
+NO_REL,283
+NO_REL,284
+movie.country,285
+movie.country,286
+movie.country movie.language,287
+movie.country movie.language,288
+movie.country movie.language,289
+movie.country movie.language,290
+movie.country movie.language,291
+movie.language,292
+movie.language,293
+movie.production_companies,294
+movie.production_companies,295
+movie.starring.actor,296
+movie.starring.actor,297
+movie.subjects,298
+movie.subjects,299
+movie.starring.actor,300
+movie.subjects,301
+movie.directed_by,302
+movie.production_companies,303
+movie.production_companies,304
+movie.initial_release_date movie.production_companies,305
+movie.country,306
+movie.produced_by,307
+movie.genre,308
+movie.directed_by,309
+movie.country,310
+movie.country,311
+movie.country,312
+movie.country,313
+movie.country movie.language,314
+movie.country movie.language,315
+movie.country movie.language,316
+movie.rating,317
+movie.rating,318
+movie.rating,319
+movie.rating,320
+movie.rating,321
+movie.rating,322
+movie.rating,323
+movie.rating,324
+movie.rating,325
+movie.rating,326
+movie.rating,327
+movie.rating,328
+movie.rating,329
+movie.rating,330
+movie.rating,331
+movie.directed_by movie.genre,332
+movie.produced_by,333
+movie.directed_by movie.initial_release_date,334
+movie.production_companies,335
+movie.country,336
+movie.country,337
+movie.country,338
+movie.directed_by,339
+movie.produced_by,340
+movie.directed_by,341
+movie.directed_by,342
+movie.directed_by,343
+movie.directed_by,344
+movie.directed_by,345
+movie.directed_by,346
+movie.directed_by,347
+movie.produced_by,348
+movie.production_companies,349
+movie.country movie.genre movie.language,350
+movie.directed_by,351
+movie.directed_by,352
+movie.directed_by,353
+movie.directed_by,354
+movie.directed_by,355
+movie.directed_by,356
+movie.directed_by,357
+movie.directed_by,358
+movie.directed_by,359
+movie.directed_by,360
+movie.directed_by,361
+NO_REL,362
+movie.starring.actor,363
+movie.starring.actor,364
+movie.starring.actor,365
+movie.country,366
+movie.country,367
+movie.country,368
+movie.country movie.language,369
+movie.country movie.language,370
+movie.produced_by movie.production_companies,371
+movie.produced_by,372
+movie.produced_by,373
+movie.production_companies,374
+movie.starring.actor movie.initial_release_date,375
+movie.directed_by,376
+movie.starring.actor,377
+movie.starring.actor,378
+movie.starring.actor,379
+movie.directed_by,380
+movie.produced_by,381
+movie.produced_by,382
+movie.produced_by,383
+movie.starring.actor,384
+movie.produced_by,385
+movie.directed_by,386
+movie.directed_by,387
+movie.directed_by,388
+movie.produced_by,389
+movie.produced_by,390
+movie.production_companies,391
+movie.production_companies,392
+movie.production_companies,393
+movie.production_companies,394
+NO_REL,395
+NO_REL,396
+NO_REL,397
+movie_other,398
+NO_REL,399
+NO_REL,400
+NO_REL,401
+NO_REL,402
+NO_REL,403
+movie.starring.actor,404
+movie.starring.actor,405
+movie.starring.actor,406
+movie.production_companies,407
+movie.production_companies,408
+movie.production_companies,409
+NO_REL,410
+NO_REL,411
+movie.directed_by,412
+movie.country,413
+NO_REL,414
+movie.production_companies,415
+movie.country movie.language,416
+movie.starring.actor,417
+movie.starring.actor,418
+movie.starring.actor,419
+movie.country movie.genre,420
+movie.starring.actor,421
+movie.directed_by,422
+movie.directed_by,423
+movie.directed_by,424
+movie.directed_by,425
+movie.directed_by,426
+movie.produced_by,427
+movie.starring.actor,428
+movie.starring.actor,429
+movie.starring.actor,430
+movie.rating,431
+movie.rating,432
+movie.rating,433
+movie.rating,434
+movie.rating,435
+movie.rating,436
+movie.rating,437
+movie.rating,438
+movie.rating,439
+movie.rating,440
+movie.rating,441
+movie.country,442
+movie.language,443
+movie.country,444
+movie.subjects,445
+movie.subjects,446
+movie.subjects,447
+movie.subjects,448
+movie_other,449
+movie.directed_by,450
+movie.directed_by,451
+movie.directed_by,452
+movie.country movie.language,453
+movie.country movie.language,454
+movie.genre,455
+movie.genre,456
+movie.rating,457
+movie.directed_by,458
+movie.directed_by,459
+movie.produced_by,460
+movie.produced_by,461
+movie.produced_by,462
+movie.produced_by,463
+movie.produced_by,464
+movie.produced_by,465
+movie.starring.actor,466
+movie.directed_by,467
+movie.country,468
+NO_REL,469
+NO_REL,470
+NO_REL,471
+NO_REL,472
+NO_REL,473
+NO_REL,474
+NO_REL,475
+movie.initial_release_date,476
+NO_REL,477
+NO_REL,478
+NO_REL,479
+NO_REL,480
+NO_REL,481
+NO_REL,482
+movie.language,483
+NO_REL,484
+movie.starring.actor,485
+NO_REL,486
+movie.directed_by,487
+movie.produced_by,488
+movie.subjects,489
+movie.starring.actor,490
+movie_other,491
+movie_other,492
+movie.production_companies,493
+movie.subjects,494
+movie.initial_release_date movie.country,495
+NO_REL,496
+NO_REL,497
+NO_REL,498
+NO_REL,499
+NO_REL,500
+movie.country movie.language,501
+movie.language,502
+movie.directed_by,503
+movie.starring.actor,504
+movie.starring.actor,505
+movie.starring.actor,506
+movie.starring.actor,507
+NO_REL,508
+movie.genre,509
+movie.directed_by,510
+NO_REL,511
+NO_REL,512
+NO_REL,513
+NO_REL,514
+movie.rating,515
+movie.rating,516
+movie.rating,517
+movie.rating,518
+movie.rating,519
+movie.rating,520
+movie.rating,521
+movie.rating,522
+movie.directed_by,523
+movie.directed_by,524
+movie.language,525
+movie.starring.actor movie.initial_release_date,526
+movie.initial_release_date movie.rating,527
+movie.initial_release_date movie.rating,528
+movie.produced_by,529
+movie.initial_release_date,530
+movie.directed_by,531
+movie.initial_release_date movie.language,532
+movie.starring.actor,533
+movie.initial_release_date,534
+NO_REL,535
+movie_other,536
+NO_REL,537
+NO_REL,538
+NO_REL,539
+NO_REL,540
+NO_REL,541
+NO_REL,542
+NO_REL,543
+NO_REL,544
+NO_REL,545
+NO_REL,546
+NO_REL,547
+NO_REL,548
+movie.starring.actor,549
+NO_REL,550
+NO_REL,551
+NO_REL,552
+NO_REL,553
+NO_REL,554
+NO_REL,555
+NO_REL,556
+NO_REL,557
+NO_REL,558
+NO_REL,559
+NO_REL,560
+movie.produced_by,561
+movie.produced_by,562
+movie.produced_by,563
+movie.production_companies,564
+movie.production_companies,565
+movie.production_companies,566
+movie.produced_by,567
+movie.produced_by,568
+movie.production_companies,569
+movie.produced_by,570
+movie.produced_by,571
+movie.produced_by,572
+movie.produced_by,573
+movie.produced_by,574
+movie.produced_by,575
+movie.produced_by,576
+movie.produced_by,577
+movie.produced_by,578
+NO_REL,579
+movie.produced_by,580
+movie.produced_by,581
+movie.produced_by,582
+movie.produced_by,583
+movie.produced_by,584
+movie.produced_by,585
+movie.produced_by,586
+movie.produced_by,587
+movie.produced_by,588
+movie.production_companies,589
+movie.production_companies,590
+movie.produced_by,591
+movie.produced_by,592
+movie.production_companies,593
+movie.production_companies,594
+movie.produced_by,595
+movie.produced_by,596
+movie.produced_by,597
+movie.produced_by,598
+movie.produced_by,599
+movie.rating,600
+movie.gross_revenue,601
+movie.gross_revenue,602
+movie.gross_revenue,603
+movie.gross_revenue,604
+movie.gross_revenue,605
+movie.gross_revenue,606
+movie.gross_revenue,607
+movie.gross_revenue,608
+movie.gross_revenue,609
+movie.gross_revenue,610
+movie.starring.actor movie.initial_release_date,611
+movie.starring.actor movie.starring.character,612
+movie.starring.actor movie.starring.character,613
+movie.starring.actor,614
+movie.starring.actor,615
+movie.starring.actor,616
+movie.starring.actor movie.starring.character,617
+movie.starring.actor movie.starring.character,618
+movie.starring.actor,619
+movie.starring.actor movie.starring.character,620
+movie.starring.actor movie.starring.character,621
+movie.starring.actor,622
+NO_REL,623
+movie.starring.actor,624
+movie.starring.actor,625
+movie.starring.actor movie.starring.character movie.directed_by,626
+movie.starring.actor movie.starring.character,627
+movie.starring.actor movie.starring.character,628
+movie.starring.actor,629
+movie.starring.actor movie.starring.character,630
+movie.starring.actor,631
+movie.starring.actor movie.starring.character,632
+movie.starring.actor movie.starring.character,633
+movie.estimated_budget,634
+movie.estimated_budget,635
+movie.estimated_budget,636
+movie.estimated_budget,637
+movie.estimated_budget,638
+movie.estimated_budget,639
+movie.initial_release_date,640
+movie.estimated_budget,641
+movie.estimated_budget,642
+movie.estimated_budget,643
+movie.estimated_budget,644
+movie.estimated_budget,645
+movie.estimated_budget,646
+movie.estimated_budget,647
+movie.estimated_budget,648
+movie.estimated_budget,649
+movie.estimated_budget,650
+movie.production_companies,651
+movie.country,652
+movie.country,653
+movie.country,654
+movie.country,655
+movie.country,656
+movie.country,657
+movie.country,658
+movie.initial_release_date,659
+movie.country,660
+movie.initial_release_date,661
+movie.initial_release_date,662
+movie.initial_release_date,663
+movie.initial_release_date,664
+movie.initial_release_date movie.rating,665
+movie.initial_release_date,666
+movie.initial_release_date,667
+movie.initial_release_date,668
+movie.initial_release_date,669
+movie.initial_release_date,670
+movie.initial_release_date,671
+movie.initial_release_date,672
+movie.directed_by,673
+movie.directed_by,674
+movie.directed_by,675
+movie.directed_by,676
+movie.directed_by,677
+movie.language,678
+movie.language,679
+movie.language,680
+movie.language,681
+movie.language,682
+movie.genre movie.rating,683
+movie.initial_release_date movie.genre,684
+movie.subjects,685
+movie.initial_release_date movie.genre,686
+other,687
+other,688
+movie.genre,689
+movie.genre,690
+movie.subjects movie.genre,691
+movie.starring.actor,692
+movie.directed_by,693
+NO_REL,694
+movie.initial_release_date,695
+movie.country,696
+movie.initial_release_date,697
+movie.initial_release_date movie.locations movie.country,698
+movie.language,699
+movie.gross_revenue gr.amount,700
+NO_REL,701
+movie.estimated_budget,702
+movie.directed_by,703
+movie.directed_by,704
+movie.directed_by,705
+movie.directed_by,706
+movie.directed_by,707
+movie.country,708
+movie.directed_by,709
+movie.directed_by,710
+movie.directed_by,711
+movie.directed_by,712
+movie.directed_by,713
+movie.starring.actor,714
+movie.initial_release_date,715
+movie.genre movie.rating,716
+NO_REL,717
+movie.genre,718
+movie.initial_release_date,719
+movie.initial_release_date,720
+movie.initial_release_date,721
+movie.initial_release_date,722
+movie.initial_release_date movie.subjects,723
+movie.language,724
+movie.language,725
+movie.language,726
+movie.language,727
+movie.language,728
+movie.language,729
+movie.language,730
+movie.language,731
+movie.country movie.language,732
+movie.language,733
+movie.language,734
+movie.country movie.language,735
+movie.language,736
+movie.language,737
+movie.language,738
+movie.language,739
+movie.language,740
+movie.language,741
+movie.language,742
+movie.produced_by,743
+movie.produced_by,744
+movie.produced_by,745
+movie.produced_by,746
+movie.production_companies,747
+movie.initial_release_date movie.production_companies,748
+movie.initial_release_date movie.production_companies,749
+movie.rating,750
+movie.rating,751
+NO_REL,752
+movie.genre movie.rating,753
+movie.rating,754
+movie.initial_release_date movie.rating,755
+movie.production_companies movie.rating,756
+movie.language,757
+movie.starring.actor,758
+movie.starring.actor,759
+movie.starring.actor,760
+movie.starring.actor,761
+movie.starring.actor,762
+movie.starring.actor,763
+movie.starring.actor,764
+movie.starring.actor,765
+movie.starring.actor movie.initial_release_date,766
+movie.starring.actor,767
+movie.starring.actor,768
+movie.starring.actor,769
+movie.subjects,770
+movie.subjects,771
+movie.subjects,772
+movie.subjects,773
+movie.subjects,774
+movie.subjects,775
+movie.subjects,776
+movie.subjects,777
+movie.subjects,778
+movie.subjects,779
+movie.subjects,780
+movie.starring.actor,781
+movie.subjects,782
+movie.subjects,783
+movie.subjects,784
+movie.starring.actor,785
+movie.subjects,786
+movie.subjects,787
+movie.country,788
+movie.subjects,789
+movie.subjects,790
+movie.subjects,791
+movie.subjects,792
+movie.subjects,793
+movie.subjects,794
+movie.subjects,795
+movie.subjects,796
+movie.language,797
+movie.rating,798
+movie.country movie.language,799
+movie.language,800
+movie.language,801
+movie.directed_by,802
+NO_REL,803
+NO_REL,804
+NO_REL,805
+NO_REL,806
+NO_REL,807
+NO_REL,808
+NO_REL,809
+movie.initial_release_date,810
+movie.language,811
+movie.initial_release_date,812
+NO_REL,813
+movie.directed_by movie.produced_by,814
+movie.initial_release_date,815
+movie.country,816
+movie.country movie.language,817
+movie.initial_release_date movie.country movie.language,818
+movie.production_companies movie.country movie.language,819
+NO_REL,820
+NO_REL,821
+NO_REL,822
+movie.directed_by,823
+movie.starring.actor,824
+NO_REL,825
+movie.produced_by,826
+NO_REL,827
+movie.produced_by,828
+movie.produced_by,829
+movie.produced_by,830
+NO_REL,831
+movie.gross_revenue,832
+movie.gross_revenue,833
+movie.gross_revenue,834
+movie.gross_revenue,835
+movie.gross_revenue,836
+movie.gross_revenue,837
+movie.gross_revenue,838
+movie.gross_revenue,839
+movie.gross_revenue,840
+movie.gross_revenue,841
+movie.gross_revenue,842
+movie.gross_revenue,843
+movie.gross_revenue,844
+movie.gross_revenue,845
+movie.gross_revenue,846
+movie.gross_revenue,847
+movie.gross_revenue,848
+movie.gross_revenue,849
+movie.estimated_budget,850
+movie.gross_revenue,851
+movie.gross_revenue,852
+movie.gross_revenue,853
+movie.gross_revenue,854
+movie.gross_revenue,855
+movie.gross_revenue,856
+NO_REL,857
+NO_REL,858
+other,859
+other,860
+movie_other,861
+movie_other,862
+NO_REL,863
+movie.language,864
+movie.showing,865
+movie_other,866
+other,867
+movie_other,868
+movie_other,869
+NO_REL,870
+movie.initial_release_date,871
+movie.initial_release_date,872
+NO_REL,873
+movie.country,874
+NO_REL,875
+movie.gross_revenue,876
+other,877
+movie.starring.actor movie.initial_release_date,878
+other,879
+other,880
+NO_REL,881
+other,882
+other,883
+movie.showing,884
+other,885
+other,886
+movie.showing,887
+movie.rating,888
+movie_other,889
+movie_other,890
+movie.estimated_budget,891
+movie.language,892
+movie.starring.actor,893
+movie.language,894
+movie.estimated_budget,895
+movie_other,896
+movie_other,897
+movie.runtime,898
+other,899
+movie.rating,900
+movie_other,901
+NO_REL,902
+movie_other,903
+other,904
+movie_other,905
+NO_REL,906
+movie_other,907
+other,908
+movie.review,909
+other,910
+movie_other,911
+movie.country movie.award,912
+movie_other,913
+movie_other,914
+NO_REL,915
+movie_other,916
+other,917
+movie_other,918
+other,919
+other,920
+movie.directed_by,921
+other,922
+movie_other,923
+movie_other,924
+movie_other,925
+other,926
+movie.rating,927
+other,928
+movie_other,929
+NO_REL,930
+movie_other,931
+movie_other,932
+movie.rating,933
+other,934
+movie.initial_release_date,935
+movie.gross_revenue,936
+movie.initial_release_date,937
+other,938
+person.picture,939
+other,940
+NO_REL,941
+other,942
+other,943
+other,944
+movie.country movie.language,945
+other,946
+movie.directed_by,947
+other,948
+movie.gross_revenue gr.amount,949
+other,950
+other,951
+other,952
+movie.country,953
+movie_other,954
+movie.directed_by,955
+other,956
+movie_other,957
+movie.country,958
+movie_other,959
+other,960
+movie.starring.actor,961
+movie.starring.actor actor.gender,962
+movie.starring.actor,963
+movie.starring.actor actor.gender,964
+movie.starring.actor,965
+movie.starring.actor,966
+person.date_of_birth,967
+person.date_of_birth,968
+movie.country,969
+movie.country,970
+movie.release release.date release.region,971
+NO_REL,972
+movie.initial_release_date movie.star_rating,973
+NO_REL,974
+movie.directed_by movie.star_rating,975
+movie.directed_by movie.star_rating,976
+NO_REL,977
+movie.produced_by movie.star_rating,978
+NO_REL,979
+movie.produced_by,980
+movie.directed_by,981
+movie.directed_by,982
+movie.produced_by,983
+movie.rating,984
+movie.rating,985
+movie.award award.ceremony,986
+movie.starring.actor,987
+movie.starring.actor,988
+movie.review,989
+movie.review,990
+movie.directed_by movie.award,991
+movie.directed_by movie.star_rating,992
+movie.star_rating,993
+movie.directed_by,994
+movie.directed_by,995
+movie.gross_revenue gr.amount,996
+movie.gross_revenue gr.amount,997
+movie.gross_revenue,998
+movie.country,999
+movie.initial_release_date movie.production_companies,1000
+movie.initial_release_date,1001
+movie.initial_release_date,1002
+movie.initial_release_date,1003
+movie.initial_release_date movie.rating,1004
+movie.production_companies movie.award award.ceremony,1005
+movie.initial_release_date movie.production_companies,1006
+movie.award person.award award.ceremony,1007
+movie.initial_release_date movie.locations,1008
+movie.locations,1009
+movie.locations,1010
+movie.release release.date release.region,1011
+movie.initial_release_date,1012
+movie.release release.region,1013
+movie.country movie.star_rating,1014
+movie.country,1015
+movie.country,1016
+movie.subjects,1017
+movie.subjects,1018
+movie.star_rating,1019
+movie.language,1020
+movie.star_rating,1021
+movie.genre,1022
+movie.language,1023
+movie.language,1024
+movie.language,1025
+movie.locations movie.country,1026
+NO_REL,1027
+movie.country,1028
+movie.subjects,1029
+movie.initial_release_date,1030
+movie.language,1031
+movie.starring.actor actor.nationality,1032
+movie_other,1033
+movie.directed_by,1034
+movie.directed_by,1035
+person.picture,1036
+movie.directed_by,1037
+movie.star_rating,1038
+NO_REL,1039
+movie.rating,1040
+movie.rating,1041
+movie.rating,1042
+movie.rating,1043
+movie.rating,1044
+movie.rating,1045
+movie.rating,1046
+movie.estimated_budget,1047
+movie.rating,1048
+movie.rating,1049
+movie.rating,1050
+movie.rating,1051
+movie.rating,1052
+movie.rating,1053
+movie.rating,1054
+movie.rating,1055
+movie.rating,1056
+movie.gross_revenue,1057
+movie.language,1058
+movie.gross_revenue,1059
+movie.gross_revenue,1060
+movie_other,1061
+movie.review,1062
+movie.review,1063
+movie.review,1064
+movie.review,1065
+movie.review,1066
+movie.review,1067
+movie.review,1068
+movie.review,1069
+movie.review,1070
+NO_REL,1071
+NO_REL,1072
+NO_REL,1073
+NO_REL,1074
+NO_REL,1075
+NO_REL,1076
+movie.trailer,1077
+NO_REL,1078
+movie.trailer,1079
+movie.starring.actor movie.trailer,1080
+movie.production_companies,1081
+movie.starring.actor,1082
+movie.locations,1083
